@@ -181,4 +181,5 @@ make_python_release() {
 }
 
 make_binary_release
-make_python_release
+# TEMPORARILY DISABLED for testing 
+# make_python_release
